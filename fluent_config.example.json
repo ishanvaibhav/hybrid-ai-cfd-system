@@ -1,0 +1,16 @@
+{
+  "case_file": "C:/path/to/base_case.cas.h5",
+  "data_file": null,
+  "inlet_name": "inlet",
+  "outlet_name": "outlet",
+  "pressure_outlet_gauge_pressure": 0.0,
+  "iterations": 200,
+  "export_surfaces": ["inlet", "outlet"],
+  "export_location": "node",
+  "export_delimiter": ",",
+  "archive_case_data": true,
+  "case_parameter_paths": {
+    "diameter": [],
+    "valve_opening": []
+  }
+}

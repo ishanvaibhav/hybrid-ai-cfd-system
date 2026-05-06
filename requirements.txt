@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+openpyxl
+matplotlib
+seaborn
+joblib
+streamlit
+# Optional for real Fluent automation:
+# ansys-fluent-core
